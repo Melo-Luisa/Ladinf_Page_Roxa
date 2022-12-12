@@ -10,7 +10,7 @@
  
  <h2 align="center">CONSTRUÇÃO</h2>
 <h3>Página composta por cabeçalho, conteúdo principal, vídeo, menu interativo e rodapé</h3>
-<em>COnteúdo composto por uma página</em>
+<em>Conteúdo composto por uma página</em>
 
 <strong>Situação:</strong>
 ✅ Finish
