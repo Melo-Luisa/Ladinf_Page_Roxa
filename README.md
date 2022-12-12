@@ -3,7 +3,7 @@
 
  Linguagens Utilizadas: HTML | CSS
 
- 📃 <a href='https://github.com/Melo-Luisa/Ladinf_Page_Roxa'>Repositório</a> | 🌐 <a href='https://melo-luisa.github.io/Landinf-roxa/'>Page</a> 
+ 📃 <a href='https://github.com/Melo-Luisa/Ladinf_Page_Roxa'>Repositório</a> | 🌐 <a href='https://melo-luisa.github.io/Ladinf_Page_Roxa/'>Page</a> 
  
  <h2>Objetivo</h2>
  <p>Criação de uma página WEB de curso de programação 🥝</p>
